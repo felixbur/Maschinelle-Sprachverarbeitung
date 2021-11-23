@@ -1,5 +1,11 @@
 # Maschinelle Sprachverarbeitung
 
+## Name of students:
+* (max. 3)
+*
+*
+
+
 ## Exercise 2: Regression
 
 * install [nkululeko](https://github.com/felixbur/nkululeko/)
